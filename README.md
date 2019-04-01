@@ -2,6 +2,7 @@
 ### Author: Jisung Yoon
 
 This code is based on William L. Hamilton's Simple GraphSAGE (https://github.com/williamleif/graphsage-simple)
+
 Basic reference PyTorch implementation of [GraphSAGE](https://github.com/williamleif/GraphSAGE).
 In this code, unsupervised verions of GRAPHSAGE-mean and GRAPHSAGE-GCN are implemented
 
